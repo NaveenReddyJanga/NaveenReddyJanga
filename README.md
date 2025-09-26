@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭## 👋 Hi there, I'm Naveen  
+
+- 👯 I’m currently working on **a Django-based e-commerce project**  
+- 👯 I’m looking to collaborate on ** AI-driven projects**  
+- 🤝 I’m looking for help with **improving my DSA and system design skills**  
+- 🌱 I’m currently learning **Artificial Intelligence and Full Stack Development**  
+- 💬 Ask me about **Python, Django, and building job-ready projects**  
+- ⚡ Fun fact: **I sometimes talk to my code when debugging 🤖**  
+
 
 
 ## 🌐 Socials:
